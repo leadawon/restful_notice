@@ -1,0 +1,3 @@
+@echo off
+C:\Users\USER\Desktop\leedawon\TIL_github\restful_notice\myvenv\Scripts\activate
+cd C:\Users\USER\Desktop\leedawon\TIL_github\restful_notice
